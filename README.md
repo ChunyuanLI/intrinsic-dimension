@@ -4,7 +4,7 @@
 This repository contains source code necessary to reproduce the results presented in the paper [Measuring the Intrinsic Dimension of Objective Landscapes](https://arxiv.org/abs/1804.08838) (ICLR 2018):
 
 ```
-@inproceedings{li_id_2018_ICLR
+@inproceedings{li_id_2018_ICLR,
   title={Measuring the Intrinsic Dimension of Objective Landscapes},
   author={Li, Chunyuan and Farkhoor, Heerad and Liu, Rosanne and Yosinski, Jason},
   booktitle={International Conference on Learning Representations},
